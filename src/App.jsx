@@ -262,7 +262,7 @@ const App = () => {
         </Form>
         {error && <ErrorMessage>{error}</ErrorMessage>}
         <Weather weatherData={weatherData} />
-        <Forecast forecastData={forecastData} />
+        {/* <Forecast forecastData={forecastData} /> */}
       </AppContainer>
     </ThemeProvider>
   );
