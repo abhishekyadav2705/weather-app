@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f2f5;
+}
+
+.AppContainer {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+input,
+button {
+  padding: 10px;
+  font-size: 1rem;
+}
